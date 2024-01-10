@@ -17,7 +17,8 @@
 
   →5.6.7
 
-![01](./RaiseTech/Evidence/01
+![01](./RaiseTech/Evidence/01.png)
+
 APサーバを終了し、引続きAPサーバへアクセスした場合
 
 ![02](./RaiseTech/Evidence/02.png)
