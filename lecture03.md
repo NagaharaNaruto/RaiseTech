@@ -17,15 +17,15 @@
 
   →5.6.7
 
-![01](./RaiseTech/Evidence/01.png)
+![01](/RaiseTech/Evidence/01.png)
 
 APサーバを終了し、引続きAPサーバへアクセスした場合
 
-![02](./RaiseTech/Evidence/02.png)
+![02](/RaiseTech/Evidence/02.png)
 
 - APサーバを再度起動した場合
 
-![03](./RaiseTech/Evidence/03.png)
+![03](/RaiseTech/Evidence/03.png)
 
 ## DB サーバーについて調べる
 - サンプルアプリケーションで使用した DB サーバー（DB エンジン）の名前
@@ -36,14 +36,14 @@ APサーバを終了し、引続きAPサーバへアクセスした場合
 
   →8.0.35
 
-![04](./RaiseTech/Evidence/04.png)
+![04](/RaiseTech/Evidence/04.png)
 
 - DB サーバーを終了し、引続きアクセスした場合
 
   →アクセスできなくなる。
 
-![05](./RaiseTech/Evidence/05.png)
-![06](./RaiseTech/Evidence/06.png)
+![05](/RaiseTech/Evidence/05.png)
+![06](/RaiseTech/Evidence/06.png)
 
 - Rails の構成管理ツールの名前
 
