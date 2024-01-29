@@ -24,7 +24,7 @@
 
 ## RDS構築
 
-　![rdb-01](Evidence/09.png)
+　![rdb-01](Evidence04/09.png)
 　![rdb-02](Evidence04/10.png)
 
 ## EC2とRDSの接続
