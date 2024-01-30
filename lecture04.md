@@ -10,8 +10,8 @@
 
 ## EC2インスタンス
 
- ![instance-01](Evidence04/03.png)
- ![instance-02](Evidence04/04.png)
+![instance-01](Evidence04/03.png)
+![instance-02](Evidence04/04.png)
  
 ## セキュリティーグループ-ec2
 
@@ -24,12 +24,12 @@
 
 ## RDS構築
 
-　![rdb-01](Evidence04/09.png)
-　![rdb-02](Evidence04/10.png)
+![rdb-01](Evidence04/09.png)
+![rdb-02](Evidence04/10.png)
 
 ## EC2とRDSの接続
 
-　![EC2RDS](Evidenc04/11.png)
+![EC2RDS](Evidence04/11.png)
 
 ## 感じた事
 
